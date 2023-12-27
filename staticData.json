@@ -1,4 +1,36 @@
 {
     "headline": "Tradatadddddd",
-    "suggestedTopics": ["One", "Two", "Three"]
+    "suggestedTopics": ["Japanese Horror Movies","Classical Jazz","Economy","Plants", "Movies", "80s Rock", "Czech Trivia", "Quentin Tarantino", "Mlada Boleslav"],
+    "randomTopics": [
+        "World Cuisines",
+        "Famous Landmarks",
+        "Musical Hits Through the Decades",
+        "Innovations in Technology",
+        "Oscar-Winning Movies",
+        "Legendary Sports Moments",
+        "Children's Literature Classics",
+        "Space Exploration",
+        "Animal Kingdom",
+        "Historical Figures",
+        "Mythology & Folklore",
+        "Famous Paintings and Artists",
+        "Global Festivals",
+        "Science Pioneers",
+        "TV Show Trivia",
+        "Under the Sea",
+        "World Capitals",
+        "Inventors and Inventions",
+        "Music Instruments of the World",
+        "Bestselling Books",
+        "Great Explorers",
+        "Cinema Blockbusters",
+        "Famous Speeches",
+        "World Religions",
+        "Olympic Sports",
+        "National Parks",
+        "Classic Video Games",
+        "Renowned Scientists",
+        "World Languages",
+        "Celebrity Chefs"
+    ]
 }
