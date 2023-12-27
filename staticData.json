@@ -1,6 +1,16 @@
 {
     "headline": "Tradatadddddd",
-    "suggestedTopics": ["Japanese Horror Movies","Classical Jazz","Economy","Plants", "Movies", "80s Rock", "Czech Trivia", "Quentin Tarantino", "Mlada Boleslav"],
+    "suggestedTopics": [
+        "Japanese Horror Movies",
+        "Classical Jazz",
+        "Economy",
+        "Plants",
+        "Movies",
+        "80s Rock",
+        "Czech Trivia",
+        "Quentin Tarantino",
+        "Mlada Boleslav"
+    ],
     "randomTopics": [
         "World Cuisines",
         "Famous Landmarks",
